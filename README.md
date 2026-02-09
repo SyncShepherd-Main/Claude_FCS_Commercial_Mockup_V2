@@ -172,7 +172,7 @@ Each page includes:
 ## 🔗 Navigation
 
 All pages include:
-- **Top bar** with phone number (877-554-8284)
+- **Top bar** with phone number ((555) 123-4567)
 - **Sticky header** with logo and main navigation
 - **Dropdown menu** for commercial services with all 12 pages
 - **Breadcrumb navigation** for user orientation
@@ -184,8 +184,8 @@ All pages include:
 ## 📞 Contact Information
 
 **FCS Foundation Repair and Concrete Services**
-- Address: 211 N Ervay St #373, Dallas, TX 75201
-- Phone: 877-554-8284
+- Address: 123 Example Street, Suite 100, Dallas, TX 75201
+- Phone: (555) 123-4567
 - Service Area: Dallas-Fort Worth Metroplex
 
 ---
